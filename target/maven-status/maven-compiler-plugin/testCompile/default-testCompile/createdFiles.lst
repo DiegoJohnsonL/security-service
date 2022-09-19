@@ -1,0 +1,3 @@
+userservice\SpringSecurityTestConfig.class
+userservice\UserServiceApplicationTests.class
+userservice\service\impl\UserServiceImplTest.class

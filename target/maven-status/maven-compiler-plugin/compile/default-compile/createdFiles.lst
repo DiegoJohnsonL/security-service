@@ -1,0 +1,17 @@
+userservice\service\impl\UserServiceImpl.class
+userservice\dto\RoleToUserForm.class
+userservice\model\Role.class
+userservice\model\User.class
+userservice\config\SecurityConfig.class
+userservice\UserServiceApplication.class
+userservice\dto\AuthenticationRequest.class
+userservice\filter\CustomAuthorizationFilter.class
+userservice\repository\RoleRepository.class
+userservice\repository\UserRepository.class
+userservice\util\JwtCenter.class
+userservice\config\OpenApiConfig.class
+userservice\controller\UserController.class
+userservice\service\UserService.class
+userservice\dto\RegisterRequest.class
+userservice\dto\AuthenticationResponse.class
+userservice\dto\JsendResponse.class
